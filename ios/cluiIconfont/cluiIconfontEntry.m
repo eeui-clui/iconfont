@@ -1,14 +1,14 @@
 //
-//  eeui-cluiIconfontEntry.m
+//  cluiIconfontEntry.m
 //  Pods
 //
 
-#import "eeui-cluiIconfontEntry.h"
+#import "cluiIconfontEntry.h"
 #import "WeexInitManager.h"
 #import <WebKit/WKWebView.h>
 
-WEEX_PLUGIN_INIT(eeui-cluiIconfontEntry)
-@implementation eeui-cluiIconfontEntry
+WEEX_PLUGIN_INIT(cluiIconfontEntry)
+@implementation cluiIconfontEntry
 
 //启动成功
 - (void) didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
@@ -61,7 +61,7 @@ WEEX_PLUGIN_INIT(eeui-cluiIconfontEntry)
 //webView初始化
 - (void) setJSCallModule:(JSCallCommon *)callCommon webView:(WKWebView*)webView
 {
-    
+
 }
 
 @end

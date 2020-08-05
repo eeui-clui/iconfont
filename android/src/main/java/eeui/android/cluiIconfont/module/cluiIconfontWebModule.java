@@ -1,4 +1,4 @@
-package eeui.android.eeui-cluiIconfont.module;
+package eeui.android.cluiIconfont.module;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -10,7 +10,7 @@ import app.eeui.framework.extend.view.webviewBridge.JsCallback;
 /**
  * web-view模块组件
  */
-public class eeui-cluiIconfontWebModule {
+public class cluiIconfontWebModule {
 
     /**
      * 简单演示
