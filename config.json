@@ -1,5 +1,5 @@
 {
-	"desc": "",
-	"requireFormatName": "cluiIconfont",
+	"desc": "iconfont图标使用组件",
+	"requireFormatName": "eeui-cluiIconfont",
 	"requireName": "eeui-clui/iconfont"
 }

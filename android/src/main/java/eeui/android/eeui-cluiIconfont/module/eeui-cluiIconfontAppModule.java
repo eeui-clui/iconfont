@@ -1,4 +1,4 @@
-package eeui.android.cluiIconfontIOS.module;
+package eeui.android.eeui-cluiIconfont.module;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -9,7 +9,7 @@ import com.taobao.weex.bridge.JSCallback;
 
 import app.eeui.framework.extend.base.WXModuleBase;
 
-public class cluiIconfontIOSAppModule extends WXModuleBase {
+public class eeui-cluiIconfontAppModule extends WXModuleBase {
 
     /**
      * 简单演示

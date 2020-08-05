@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.name         = "cluiIconfontIOS"
+  s.name         = "eeui-cluiIconfont"
   s.version      = "1.0.0"
   s.summary      = "eeui plugin."
   s.description  = <<-DESC
@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "kuaifan" => "aipaw@live.cn" }
   s.source =  { :path => '.' }
-  s.source_files  = "cluiIconfontIOS", "**/**/*.{h,m,mm,c}"
+  s.source_files  = "eeui-cluiIconfont", "**/**/*.{h,m,mm,c}"
   s.exclude_files = "Source/Exclude"
-  s.resources = 'cluiIconfontIOS/resources/*.*'
+  s.resources = 'eeui-cluiIconfont/resources/*.*'
   s.platform     = :ios, "8.0"
   s.requires_arc = true
 

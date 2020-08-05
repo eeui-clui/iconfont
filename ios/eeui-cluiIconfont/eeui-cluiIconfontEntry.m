@@ -1,14 +1,14 @@
 //
-//  cluiIconfontIOSEntry.m
+//  eeui-cluiIconfontEntry.m
 //  Pods
 //
 
-#import "cluiIconfontIOSEntry.h"
+#import "eeui-cluiIconfontEntry.h"
 #import "WeexInitManager.h"
 #import <WebKit/WKWebView.h>
 
-WEEX_PLUGIN_INIT(cluiIconfontIOSEntry)
-@implementation cluiIconfontIOSEntry
+WEEX_PLUGIN_INIT(eeui-cluiIconfontEntry)
+@implementation eeui-cluiIconfontEntry
 
 //启动成功
 - (void) didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
