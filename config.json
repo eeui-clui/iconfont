@@ -1,5 +1,5 @@
 {
 	"desc": "",
-	"requireFormatName": "cluiIconfontIOS",
-	"requireName": "clui/iconfontIOS"
+	"requireFormatName": "cluiIconfont",
+	"requireName": "eeui-clui/iconfont"
 }
